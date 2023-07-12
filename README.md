@@ -4,9 +4,10 @@
 <img align="right" alt="GIF" src="https://miro.medium.com/max/1400/1*qdAW1TjCN57h1lbuuzvchg.gif" width="500" height="320" />
 
 ##  👩‍ Hi there, I'm Serap BERAN
-[<img align="left" alt="linkedin | LinkedIn" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />][linkedin]
+
 [<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gmail.svg" />][gmail]
 [![Medium Badge](https://img.shields.io/badge/-Medium-FF9800?style=flat-quare&labelColor=FF9800&logo=Medium&logoColor=white&link=link)][medium]
+<a href="https://www.linkedin.com/in/serap-beran-963a4820a/">Linkedin</a>
 ##
 
 
